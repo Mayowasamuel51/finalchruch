@@ -1,0 +1,15 @@
+{
+    "rewrites": [{ "source": "/(.*)", "destination": "/" }],
+    "git": {
+      "deploymentEnabled": {
+        "main": true
+      }
+    },
+    "github": {
+      "autoJobCancelation": true,
+      "silent": true,
+      "autoAlias": true,
+      "enabled": true
+    }
+  }
+  
