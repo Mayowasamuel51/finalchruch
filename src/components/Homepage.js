@@ -42,7 +42,7 @@ const Homepage = () => {
         </h3>
         <p className="text-base sm:text-lg lg:text-xl text-black max-w-xl sm:max-w-3xl mx-auto">
           Welcome to Higher Ground Assembly's 20th Anniversary Celebration! We
-          are beyond blessed to have you join us as we reflect on 10 years of
+          are beyond blessed to have you join us as we reflect on 20 years of
           God’s grace, worship, and service to our community.
         </p>
        
